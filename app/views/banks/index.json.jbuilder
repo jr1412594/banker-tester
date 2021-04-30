@@ -1,0 +1,1 @@
+json.banks @banks, partial: 'partials/bank', as: :bank

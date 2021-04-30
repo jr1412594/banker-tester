@@ -1,0 +1,1 @@
+json.accounts @accounts, partial: 'partials/account', as: :account
